@@ -1,6 +1,6 @@
 # Hello galeris! :raised_hands:
 
-Muito prazer em conhecê-los, meu nome é Caroline, tenho 27 anos e sou apaixonada por tecnologia desde sempre, e engenheira química por acidente. Sou nerdola convicta, adoro jogos, séries, livros, animes e mangás. 
+Muito prazer em conhecê-los, meu nome é Carol, tenho 27 anos e sou apaixonada por tecnologia desde sempre, e engenheira química por acidente. Sou nerdola convicta, adoro jogos, séries, livros, animes e mangás. 
 
 Na Engenharia Química sempre gostei da área modelagem e simulação de processos industriais (aquele pezinho na área de programação), trabalhando com raciocínio logico e desenvolvimento de projetos.
 
